@@ -1,4 +1,4 @@
-package org.Livros;
+package org.Livros.conf;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
